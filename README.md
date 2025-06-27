@@ -12,6 +12,7 @@ Free and Open Source
 MultiloginPro - Highly Recommended for browser fingerprinting, totally free for unlimited profiles, and open source.
 
 Free
+
 ADBLogin - activate it via Telegram
 Free Plan: Yes
 Automation: Supported
