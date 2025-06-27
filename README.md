@@ -7,6 +7,17 @@ Tools List
 
 Anti-Detect Browsers
 
+Free and Open Source
+
+MultiloginPro - Highly Recommended for browser fingerprinting, totally free for unlimited profiles, and open source.
+
+Free
+ADBLogin - activate it via Telegram
+Free Plan: Yes
+Automation: Supported
+
+Paid but with Free Plan for Testing
+
 Undetectable - $49 for unlimited local profiles, 25 "configs". [API + Driver Automation]
 Free Plan: 5 cloud profiles
 Automation: Not supported
@@ -14,14 +25,6 @@ Automation: Not supported
 NSTBrowser - $29 for 3000 profiles/day, quite new
 Free Plan: 10 profiles/day
 Automation: Supported
-
-Multilogin - Starts from €74 for 100 profiles
-Free Plan: Limited
-Automation: Supported
-
-MultiloginPro - Highly Recommended for browser fingerprinting, starts at $59 for 10 profiles, with full automation support
-Free Plan: Totally Free
-Automation: Fully supported
 
 Incogniton - Free for 10 profiles, $29.99/month for 50
 Free Plan: 10 profiles for 2 months
@@ -47,24 +50,27 @@ Dolphin-anty - $89 for 100 profiles
 Free Plan: 10 profiles
 Automation: Supported
 
+GhostBrowser - $46/month
+Free Plan: 3 profiles
+Automation: Not supported
+
+
+Paid Only
+
+Multilogin - Starts from €79 for 100 profiles/month
+Free Plan: Try 3 days for €1.99
+Automation: Supported
+
 Kameleo - Starts €59/user with unlimited profiles
-Free Plan: Not specified
+Free Plan: Need to login and add credit card
 Automation: Supported
 
 Vmlogin - $99 for 200 profiles
-Free Plan: Not specified
+Free Plan: Need to login and contact seller
 Automation: Supported
 
 Indigo - €99 for 100 profiles
-Free Plan: Not specified
-Automation: Supported
-
-GhostBrowser - $21 for unlimited profiles
-Free Plan: 4 profiles
-Automation: Not supported
-
-Bablosoft - Free browser automation studio, Puppeteer support
-Free Plan: Yes
+Free Plan: Need to login and contact seller
 Automation: Supported
 
 Unique: Fake Canvas (with PerfectCanvas)
@@ -110,10 +116,6 @@ Automation: Supported
 
 0detect - $14 for 50 profiles
 Free Plan: 5 profiles
-Automation: Supported
-
-ADBLogin - Free forever
-Free Plan: Yes
 Automation: Supported
 
 Detection Tools
