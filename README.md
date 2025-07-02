@@ -1,4 +1,5 @@
 Anti-Detect Tools List
+
 A curated collection of anti-detect tools to help with web scraping, social media marketing, automation, and undetectable browsing. Whether you're a developer working with Puppeteer, Playwright, or just need some reliable anti-detect browsers, you'll find something here.
 
 Feel free to contribute or make pull requests!
@@ -9,7 +10,7 @@ Anti-Detect Browsers
 
 Free and Open Source
 
-MultiloginPro - Highly Recommended for browser fingerprinting, totally free for unlimited profiles, and open source.
+MultiloginPro - Safe Multi-Account Management Browser — 100% Free, No Hidden Fees, Open Source
 
 Free
 
